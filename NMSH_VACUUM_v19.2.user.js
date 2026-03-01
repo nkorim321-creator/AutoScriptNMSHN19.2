@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         N*M*S*H*N VACUUM
+// @name         N*M*S*H*N VACUUM19.2
 // @namespace    http://tampermonkey.net/
 // @version      19.2
 // @description  VACUUM — Maximum performance HIT catcher. Worker ID licensed.
